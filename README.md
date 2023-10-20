@@ -25,7 +25,7 @@ Thank you for visiting my GitHub profile!
 
 ## Contact Information
 
-<a href="https://www.linkedin.com/in/rama-alyoubi/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="100"></a> <a href="https://twitter.com/Rama_Alyoubi"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Twitter" width="100"></a> <a href="mailto:Rama.Mohammed.Alyoubi@gmail.com"><img src="https://moein.video/wp-content/uploads/2022/12/gmail-logo-gif-gmail-icon-gif-royalty-free-animated-icon-gif-350px-after-effects-project.gif" alt="Gmail" width="100"></a>
+<a href="https://www.linkedin.com/in/rama-alyoubi/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="60"></a> <a href="https://twitter.com/Rama_Alyoubi"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Twitter" width="60"></a> <a href="mailto:Rama.Mohammed.Alyoubi@gmail.com"><img src="https://moein.video/wp-content/uploads/2022/12/gmail-logo-gif-gmail-icon-gif-royalty-free-animated-icon-gif-350px-after-effects-project.gif" alt="Gmail" width="60"></a>
 
-Feel free to get in touch, and let's make a difference in the world of AI! 😊🚀
+Feel free to get in touch, and let's make a difference in the world of AI! 🌷✨
 
