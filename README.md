@@ -1,5 +1,7 @@
 # Rama Alyoubi - AI Student | Full-Stack AI Engineer
 
+<a href=""><img src="https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif" alt="image" width="1000"></a>
+
 ## Introduction
 
 Welcome to my GitHub profile! I'm Rama Alyoubi, an AI student at the University of Jeddah and a passionate full-stack AI engineer. I thrive on the intersection of artificial intelligence and the natural world, constantly seeking to push the boundaries of what's possible in AI. With a deep appreciation for nature, astronomy, and artistic endeavors, I bring a unique perspective to my work. 
@@ -17,6 +19,9 @@ I believe that the best innovations arise from collaboration and the exchange of
 If you're interested in my work or have any questions, feel free to reach out. I'm always excited to connect with fellow AI enthusiasts, researchers, and professionals. Let's embark on this exciting journey together!
 
 Thank you for visiting my GitHub profile!
+
+
+<p align="center"> <a href=""><img src="https://i.pinimg.com/originals/1f/7e/95/1f7e952c4a4c7f2d7b7c2bf923baee67.gif" alt="image3" width="130"></a> <a href=""><img src="https://i.pinimg.com/originals/56/7a/09/567a0964671de5b98b70583fe81ae5b0.gif" alt="image2" width="200"></a> <a href=""><img src="https://i.pinimg.com/originals/1f/7e/95/1f7e952c4a4c7f2d7b7c2bf923baee67.gif" alt="image2" width="130"></a> </p>
 
 ## Contact Information
 
