@@ -25,7 +25,9 @@ Thank you for visiting my GitHub profile!
 
 ## Contact Information
 
-<a href="https://www.linkedin.com/in/rama-alyoubi/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="60"></a> <a href="https://twitter.com/Rama_Alyoubi"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Twitter" width="60"></a> <a href="mailto:Rama.Mohammed.Alyoubi@gmail.com"><img src="https://moein.video/wp-content/uploads/2022/12/gmail-logo-gif-gmail-icon-gif-royalty-free-animated-icon-gif-350px-after-effects-project.gif" alt="Gmail" width="60"></a>
+<a href="mailto:Rama.Mohammed.Alyoubi@gmail.com">
+  <img src="https://media3.giphy.com/media/W3TdY216hOEWwUuJsY/giphy.gif?cid=6c09b952oz6uuj2nbb15gmi6s0o8nnwojy0ad62vz1qlue8l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Gmail" width="70" >
+</a> <a href="https://www.linkedin.com/in/rama-alyoubi/"><img src="https://hackernoon.com/images/PrB8ElNwFUY9FJD7Kw2aUJtm1UW2-cjw12i45.gif" alt="LinkedIn" width="78"></a> <a href="https://twitter.com/Rama_Alyoubi"><img src="https://hackernoon.com/images/PrB8ElNwFUY9FJD7Kw2aUJtm1UW2-svv52irt.gif" alt="Twitter" width="65"></a> 
 
 Feel free to get in touch, and let's make a difference in the world of AI! 🌷✨
 
